@@ -1,0 +1,8 @@
+body{
+	min-height: 100vh;
+	background-image:url("img/plane.png"), url("img/olov.png"), url("img/road.jpg");
+	background-repeat: no-repeat;
+	background-size: 200px, 200px, cover;
+	background-attachment: scroll, scroll, fixed;
+	background-position: right 200px top 200px, right 200px top 95px, center center;
+}

@@ -1,0 +1,93 @@
+.uz-flag {
+  min-height: 100vh;
+  border: 1px solid #000;
+  background-image: url("img/uzb-stars.png"),
+  linear-gradient(
+    	to bottom,
+    	skyblue 30%,
+    	red 30%,
+    	red 35%,
+    	white 35%,
+    	white 65%,
+    	red 65%,
+    	red 70%,
+    	green 70%
+	);
+  background-repeat: no-repeat;
+  background-size: 300px 100px, cover;
+  background-position: top 100px,center center;
+  margin-bottom: 20px;
+}
+.niger-flag{
+	min-height: 100vh;
+	border: 1px solid #000;
+	background-image: linear-gradient(
+		to right,
+		green 33%,
+		white 33%,
+		white 66%,
+		green 66%,
+		green 99%
+	);
+	margin-bottom: 20px;
+}
+.fran-flag{
+	min-height: 100vh;
+	border: 1px solid #000;
+	background-image: linear-gradient(
+		to right,
+		blue 33%,
+		white 33%,
+		white 66%,
+		red 66%,
+		red 99%
+	);
+	margin-bottom: 20px;
+}
+.ispan-flag{
+	min-height: 100vh;
+	border: 1px solid #000;
+	background-image: url("img/spain.png"), linear-gradient(
+		to bottom,
+		red 25%,
+		yellow 25%,
+		yellow 75%,
+		red 75%,
+		red 100%
+	);
+	background-size: 300px 300px, cover;
+	background-position: left 200px center, center center;
+	background-repeat: no-repeat;
+	margin-bottom: 20px;
+}
+.kana-flag{
+	min-height: 100vh;
+	border: 1px solid #000;
+	background-image: url("img/canada.png"),linear-gradient(
+		to right,
+		red 25%,
+		white 25%,
+		white 75%,
+		red 75%,
+		red 100%
+	);
+	background-size: 500px 500px, cover;
+	background-repeat: no-repeat;
+	background-position: center center;
+	margin-bottom: 20px;
+}
+.trin-flag{
+	min-height: 100vh;
+	border: 1px solid #000;
+    background-image: linear-gradient(to left bottom,
+  		red 40%,
+  		white 40%,
+  		white 42%,
+  		black 42%,
+  		black 48%,
+  		white 48%,
+  		white 50%,
+  		red 50%
+	);
+	margin-bottom: 20px;
+}
