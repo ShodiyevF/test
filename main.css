@@ -4,5 +4,6 @@ body{
 	background-repeat: no-repeat;
 	background-size: 200px, 200px, cover;
 	background-attachment: scroll, scroll, fixed;
+	background-color: red;
 	background-position: right 200px top 200px, right 200px top 95px, center center;
 }
